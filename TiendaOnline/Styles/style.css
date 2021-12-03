@@ -88,6 +88,11 @@ form{
   display: flex;
   justify-content: center;
   padding: 10px;
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;        
 }
 
 .izquierda{
@@ -100,4 +105,8 @@ form{
 
 .right{
   width: 50%;
+}
+
+button{
+  background-color: transparent;
 }

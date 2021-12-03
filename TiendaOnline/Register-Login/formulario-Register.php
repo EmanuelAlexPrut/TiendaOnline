@@ -11,7 +11,7 @@ if(isset($_POST["name"])){
 	$name= $_POST["name"];
 }else{
 	$name="";
-}L
+}
 if(isset($_POST["lastname"])){
 	$lastname= $_POST["lastname"];
 }else{
